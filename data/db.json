@@ -1,0 +1,18 @@
+{
+  "ids": {
+    "Todo": 5
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"id\":1, \"todoListId\": 1}",
+      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"id\":2, \"todoListId\": 1}",
+      "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"id\":3, \"todoListId\": 1}",
+      "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4, \"todoListId\": 2}",
+      "5": "{\"title\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"id\":5, \"todoListId\": 1}"
+    },
+    "TodoList": {
+      "1": "{\"id\":1, \"title\":\"title 1\", \"color\":\"blue\"}",
+      "2": "{\"id\":2, \"title\":\"title 1\", \"color\":\"red\"}"
+    }
+  }
+}
